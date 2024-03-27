@@ -1,3 +1,3 @@
-# flutter_application_1
+# Notes & Todo App
 
-A new Flutter project.
+A simple Notes and Todo App built using Flutter.
